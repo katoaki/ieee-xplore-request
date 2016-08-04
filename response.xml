@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<totalfound>2423</totalfound>
+
+<totalsearched>3980263</totalsearched>
+
+<document>
+
+<rank>1</rank>
+
+<title><![CDATA[Statistical Delay Budget Partitioning Algorithm]]></title>
+
+<authors><![CDATA[Najah Abu Ali;  Saeed Gazor;  Hussein Mouftah]]></authors>
+
+<affiliations><![CDATA[Department of Electrical and Computer Engineering, Queen's University, Kingston, Canada. Email: najaha@ee.queensu.ca]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Costs]]></term>
+
+<term><![CDATA[Delay effects]]></term>
+
+<term><![CDATA[Heuristic algorithms]]></term>
+
+<term><![CDATA[Information technology]]></term>
+
+<term><![CDATA[Mission critical systems]]></term>
+
+<term><![CDATA[Partitioning algorithms]]></term>
+
+<term><![CDATA[Probability]]></term>
+
+<term><![CDATA[Proposals]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+<term><![CDATA[Streaming media]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[2006 IEEE International Conference on Communications]]></pubtitle>
+
+<punumber><![CDATA[4024074]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[3]]></volume>
+
+<py><![CDATA[2006]]></py>
+
+<spage><![CDATA[1077]]></spage>
+
+<epage><![CDATA[1082]]></epage>
+
+<abstract><![CDATA[Mapping the end to end QoS requirements into link QoS requirements is an important step for resource allocation of connection oriented services. The problem of the QoS partitioning has been addressed in literature and proved to be NP complete. Different algorithms are proposed to solve the problem of single end-to-end QoS metric. However, these algorithms are near optimal or heuristic algorithms and solve the QoS partitioning problem for single QoS metric. In this paper, we propose a novel optimal partitioning algorithm which is capable of partitioning the end to end QoS requirement for multiple QoS metrics, additive and multiplicative, simultaneously. Extensive simulation verified the effectiveness of the algorithm compared to two QoS partitioning algorithms. The results show that the proposed algorithm outperforms the other two algorithms for loose and stringent QoS requirements and over different path lengths.]]></abstract>
+
+<issn><![CDATA[1550-3607]]></issn>
+
+<isbn><![CDATA[1-4244-0355-3]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4024282]]></arnumber>
+
+<doi><![CDATA[10.1109/ICC.2006.254890]]></doi>
+
+<publicationId><![CDATA[4024282]]></publicationId>
+
+<partnum><![CDATA[4024282]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4024282&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4024282]]></pdf>
+
+</document>
+
+<document>
+
+<rank>2</rank>
+
+<title><![CDATA[Naval wireless telegraph communications]]></title>
+
+<authors><![CDATA[G. Shearing;  J. W. S. Dorling;  R. N.]]></authors>
+
+<pubtitle><![CDATA[Wireless Section, Institution of Electrical Engineers - Proceedings of the]]></pubtitle>
+
+<punumber><![CDATA[5245479]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IET]]></publisher>
+
+<volume><![CDATA[5]]></volume>
+
+<issue><![CDATA[13]]></issue>
+
+<py><![CDATA[1930]]></py>
+
+<spage><![CDATA[9]]></spage>
+
+<abstract><![CDATA[The paper gives a short account of the development of wireless telegraph apparatus for naval purposes. The historical development is referred to, the wireless telegraph lines required for naval ships are outlined, and the essential requirements and chief features of some of the apparatus used under sea-going conditions are briefly described. The organization for giving effect to the policy of H.M. Board of Admiralty is also indicated.]]></abstract>
+
+<arnumber><![CDATA[5245632]]></arnumber>
+
+<doi><![CDATA[10.1049/pws.1930.0002]]></doi>
+
+<publicationId><![CDATA[5245632]]></publicationId>
+
+<partnum><![CDATA[5245632]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5245632&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5245632]]></pdf>
+
+</document>
+
+<document>
+
+<rank>3</rank>
+
+<title><![CDATA[WGISD Organizers]]></title>
+
+<authors><![CDATA[]]></authors>
+
+<pubtitle><![CDATA[Complex, Intelligent and Software Intensive Systems, 2008. CISIS 2008. International Conference on]]></pubtitle>
+
+<punumber><![CDATA[4606617]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2008]]></py>
+
+<spage><![CDATA[xlvix]]></spage>
+
+<epage><![CDATA[l]]></epage>
+
+<abstract><![CDATA[Provides a listing of current committee members and society officers.]]></abstract>
+
+<isbn><![CDATA[978-0-7695-3109-0]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4606654]]></arnumber>
+
+<doi><![CDATA[10.1109/CISIS.2008.182]]></doi>
+
+<publicationId><![CDATA[4606654]]></publicationId>
+
+<partnum><![CDATA[4606654]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4606654&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4606654]]></pdf>
+
+</document>
+
+<document>
+
+<rank>4</rank>
+
+<title><![CDATA[Mobile Access to Sensor Networks by Using GIS Standards and RESTful Services]]></title>
+
+<authors><![CDATA[Sergio Trilles;  &#x00D3; scar Belmonte;  Laura D&#x00ED; az;  Joaqu&#x00ED; n Huerta]]></authors>
+
+<affiliations><![CDATA[Institute of New Imaging Technologies, Universitat Jaume I, Castell&#x00F3; de la Plana, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Web services]]></term>
+
+<term><![CDATA[air quality]]></term>
+
+<term><![CDATA[atmospheric techniques]]></term>
+
+<term><![CDATA[decision making]]></term>
+
+<term><![CDATA[geographic information systems]]></term>
+
+<term><![CDATA[mobile radio]]></term>
+
+<term><![CDATA[wireless sensor networks]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Data models]]></term>
+
+<term><![CDATA[Databases]]></term>
+
+<term><![CDATA[Geospatial analysis]]></term>
+
+<term><![CDATA[Interoperability]]></term>
+
+<term><![CDATA[Sensor systems]]></term>
+
+<term><![CDATA[Standards]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[IEEE Sensors Journal]]></pubtitle>
+
+<punumber><![CDATA[7361]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[14]]></volume>
+
+<issue><![CDATA[12]]></issue>
+
+<py><![CDATA[2014]]></py>
+
+<spage><![CDATA[4143]]></spage>
+
+<epage><![CDATA[4153]]></epage>
+
+<abstract><![CDATA[There is an increasing deployment of sensor networks that measure the physical state of the environment. These networks provide large volumes of data in many different formats, resolutions, and scales. There are different types and character of data: from meteorological conditions to air quality and the concentrations of pollutants due to human activity, such as transportation or other industry-related actions. Current sensor networks publish this data in different formats. This implies not offering standard access to different data sources. These varieties of formats lead to an interoperability problem. Also, access to these sources is not fast and agile; it prevents access through mobile devices. The work in this paper aims at increasing the interoperability and improving accessibility of data provided by sensor networks. In this way, these data can be employed by different devices and with diverse context requirements, such as specific location and time. To address this problem, geographic information system services, such as the sensor observation service, in conjunction with representational state transfer architecture are used. A standard-based solution that increases interoperability is presented. It also allows a better integration of data that has already been published in different semistructured formats in order to be used by various platforms (web or mobile). Furthermore, this system adds value to original sensor data in order to assist in the decision making process. Finally, to illustrate how to use these services, a mobile application that shows the hot-spots following air quality index has been developed.]]></abstract>
+
+<issn><![CDATA[1530-437X]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6861953]]></arnumber>
+
+<doi><![CDATA[10.1109/JSEN.2014.2339931]]></doi>
+
+<publicationId><![CDATA[6861953]]></publicationId>
+
+<partnum><![CDATA[6861953]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6861953&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6861953]]></pdf>
+
+</document>
+
+<document>
+
+<rank>5</rank>
+
+<title><![CDATA[Access and Digital Divide: Results]]></title>
+
+<authors><![CDATA[James E. Katz;  Ronald E. Rice]]></authors>
+
+<pubtitle><![CDATA[Social Consequences of Internet Use:Access, Involvement, and Interaction]]></pubtitle>
+
+<punumber><![CDATA[6267293]]></punumber>
+
+<pubtype><![CDATA[Books & eBooks]]></pubtype>
+
+<publisher><![CDATA[MIT Press]]></publisher>
+
+<py><![CDATA[2002]]></py>
+
+<spage><![CDATA[35]]></spage>
+
+<epage><![CDATA[65]]></epage>
+
+<abstract><![CDATA[This chapter contains sections titled: Factors Influencing Awareness and Usage, Nonusers and Users across the Survey Years, A Persistent but Declining Digital Divide, Differences in Usage by Cohort and Survey Year across Demographics, Awareness, Combined Influences on Usage and Awareness, Motivations for Internet Usage: Nonusers and Users, Recent and Long- Term Users, 1995 and 2000, Results from the Pew Internet and American Life Project Survey, March 2000, Conclusion]]></abstract>
+
+<isbn><![CDATA[9780262256506]]></isbn>
+
+<arnumber><![CDATA[6289561]]></arnumber>
+
+<publicationId><![CDATA[6289561]]></publicationId>
+
+<partnum><![CDATA[6289561]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6289561&contentType=Books+%26+eBooks]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6289561]]></pdf>
+
+</document>
+
+<document>
+
+<rank>6</rank>
+
+<title><![CDATA[TCBC: Trap Caching Bounds Checking for C]]></title>
+
+<authors><![CDATA[Yoshitaka Arahori;  Katsuhiko Gondow;  Hideo Maejima]]></authors>
+
+<affiliations><![CDATA[Dept. of Comput. Sci., Tokyo Inst. of Technol., Tokyo, Japan]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[C language]]></term>
+
+<term><![CDATA[cache storage]]></term>
+
+<term><![CDATA[program debugging]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computer errors]]></term>
+
+<term><![CDATA[Computer science]]></term>
+
+<term><![CDATA[Debugging]]></term>
+
+<term><![CDATA[Information processing]]></term>
+
+<term><![CDATA[Instruments]]></term>
+
+<term><![CDATA[Linux]]></term>
+
+<term><![CDATA[Manuals]]></term>
+
+<term><![CDATA[Prototypes]]></term>
+
+<term><![CDATA[Runtime]]></term>
+
+<term><![CDATA[Security]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Dependable, Autonomic and Secure Computing, 2009. DASC '09. Eighth IEEE International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5379503]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[49]]></spage>
+
+<epage><![CDATA[56]]></epage>
+
+<abstract><![CDATA[In this paper, we propose a debugging technique for C, which can dynamically find boundary errors on strings in a highly-compatible, accurate and efficient manner. The main idea of our technique is to effectively keep track of hazardous memory bounds (called trap regions) using a small table (called a trap cache) on the static section of the instrumented program. We have implemented our technique as an extension of GCC4.1.1 and conducted experiments. The results show that our technique was easily applicable even to large real programs including Apache 1.3.37 and Linux 2.6.20.4 without requiring significant manual effort, it successfully detected all of ten known boundary errors in them with no false positives, and it incurred low run-time overheads (average 17%) for their benchmarks.]]></abstract>
+
+<isbn><![CDATA[978-0-7695-3929-4]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5380268]]></arnumber>
+
+<doi><![CDATA[10.1109/DASC.2009.80]]></doi>
+
+<publicationId><![CDATA[5380268]]></publicationId>
+
+<partnum><![CDATA[5380268]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5380268&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5380268]]></pdf>
+
+</document>
+
+<document>
+
+<rank>7</rank>
+
+<title><![CDATA[Combined heat and power dispatch with wind power: A stochastic model and solutions]]></title>
+
+<authors><![CDATA[Xian Liu]]></authors>
+
+<affiliations><![CDATA[Department of Systems Engineering, University of Arkansas at Little Rock, 72204, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[cogeneration]]></term>
+
+<term><![CDATA[stochastic processes]]></term>
+
+<term><![CDATA[wind turbines]]></term>
+
+</controlledterms>
+
+<pubtitle><![CDATA[IEEE PES General Meeting]]></pubtitle>
+
+<punumber><![CDATA[5577387]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[6]]></epage>
+
+<abstract><![CDATA[In this paper we develop a model of combined heat and power (CHP) dispatch for the system consisting of both thermal generators and wind turbines. In this model, the probability of stochastic wind power is included in the constraint set. This approach avoids the probabilistic infeasibility caused by using the average of random variables. The effects of wind speed on the generated power are investigated. Numerical solutions for an example system are presented.]]></abstract>
+
+<issn><![CDATA[1932-5517]]></issn>
+
+<isbn><![CDATA[978-1-4244-6549-1]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5589287]]></arnumber>
+
+<doi><![CDATA[10.1109/PES.2010.5589287]]></doi>
+
+<publicationId><![CDATA[5589287]]></publicationId>
+
+<partnum><![CDATA[5589287]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5589287&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5589287]]></pdf>
+
+</document>
+
+<document>
+
+<rank>8</rank>
+
+<title><![CDATA[Privacy-Preserving Spatiotemporal Matching for Secure Device-to-Device Communications]]></title>
+
+<authors><![CDATA[Jingchao Sun;  Rui Zhang;  Yanchao Zhang]]></authors>
+
+<affiliations><![CDATA[Jingchao Sun is with the School of Electrical, Computer and Energy Engineering, Arizona State University, Tempe, AZ, 85287. (e-mail: jcsun@asu.edu).]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Authentication]]></term>
+
+<term><![CDATA[Indexes]]></term>
+
+<term><![CDATA[Internet of things]]></term>
+
+<term><![CDATA[Mobile communication]]></term>
+
+<term><![CDATA[Mobile handsets]]></term>
+
+<term><![CDATA[Protocols]]></term>
+
+<term><![CDATA[Spatiotemporal phenomena]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[IEEE Internet of Things Journal]]></pubtitle>
+
+<punumber><![CDATA[6488907]]></punumber>
+
+<pubtype><![CDATA[Early Access Articles]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[PP]]></volume>
+
+<issue><![CDATA[99]]></issue>
+
+<py><![CDATA[2016]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[1]]></epage>
+
+<abstract><![CDATA[Device-to-device (D2D) communications are emerging due to the explosive growth of smartphones and tablets. Given the possible presence of attackers, a fundamental challenge in secure D2D communications is to develop sound mobile authentication techniques whereby mobile users can select the most trustworthy D2D communication partners from possibly many candidates. This paper tackles this open challenge and proposes spatiotemporal matching as a promising enabler for secure D2D communications. Spatiotemporal matching is built upon the location-aware capability of D2D devices. In particular, a mobile user could very easily maintain his spatiotemporal profile recording his continuous whereabouts in time, and the level of his spatiotemporal profile matching that of the other user can be translated into the level of trust they two can have in each other. Since spatiotemporal profiles contain very sensitive personal information, privacy-preserving spatiotemporal matching is needed to ensure that as little information as possible about the spatiotemporal profile of either matching participant is disclosed beyond the matching result. Towards this end, we propose two novel privacy-preserving spatiotemporal matching protocols, which are thoroughly analyzed and evaluated through detailed simulation studies driven by experimental data.]]></abstract>
+
+<issn><![CDATA[2327-4662]]></issn>
+
+<arnumber><![CDATA[7445133]]></arnumber>
+
+<doi><![CDATA[10.1109/JIOT.2016.2549046]]></doi>
+
+<publicationId><![CDATA[7445133]]></publicationId>
+
+<partnum><![CDATA[7445133]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7445133&contentType=Early+Access+Articles]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7445133]]></pdf>
+
+</document>
+
+<document>
+
+<rank>9</rank>
+
+<title><![CDATA[Modeling freeway network by using dynamic graph hybrid automata and estimating its states by designing state observer]]></title>
+
+<authors><![CDATA[Yangzhou Chen;  Yuqi Guo;  Ying Wang;  Wei Li]]></authors>
+
+<affiliations><![CDATA[Coll. of Metropolitan Transp., Beijing Univ. of Technol., Beijing, China]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[automata theory]]></term>
+
+<term><![CDATA[graph theory]]></term>
+
+<term><![CDATA[network theory (graphs)]]></term>
+
+<term><![CDATA[observers]]></term>
+
+<term><![CDATA[road traffic]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Automata]]></term>
+
+<term><![CDATA[Heuristic algorithms]]></term>
+
+<term><![CDATA[Mathematical model]]></term>
+
+<term><![CDATA[Observers]]></term>
+
+<term><![CDATA[Switches]]></term>
+
+<term><![CDATA[Traffic control]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Chinese Automation Congress (CAC), 2015]]></pubtitle>
+
+<punumber><![CDATA[7369834]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2015]]></py>
+
+<spage><![CDATA[237]]></spage>
+
+<epage><![CDATA[242]]></epage>
+
+<abstract><![CDATA[This paper considers a new modeling method and traffic state estimation for a freeway network. Firstly, we propose a new modeling method, which is called Dynamic Graph Hybrid Automata (DGHA), to describe the evolution law of the freeway network. In the model, the traffic dynamics are described by the Modified Cell Transmission Model (MCTM), where the cells are expressed by hybrid automata, and multi-mode switching expressions are introduced into the connections among these cells. The proposed DGHA model is modularized and easily-extensible. Combination between cells is implemented automatically by an algorithm. By using the modeling method and the algorithm of combination between cells, one can establish the freeway network models with any topology structure. Secondly, a switched state observer is designed to estimate the traffic states of the freeway network. Finally, the proposed method is applied to Beijing third ring freeway, which shows the effectiveness of the proposed modeling method and the accuracy of the state estimation.]]></abstract>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[7382503]]></arnumber>
+
+<doi><![CDATA[10.1109/CAC.2015.7382503]]></doi>
+
+<publicationId><![CDATA[7382503]]></publicationId>
+
+<partnum><![CDATA[7382503]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7382503&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7382503]]></pdf>
+
+</document>
+
+<document>
+
+<rank>10</rank>
+
+<title><![CDATA[SCT Promoter Methylation Is a Highly Discriminative Biomarker for Lung and Many Other Cancers]]></title>
+
+<authors><![CDATA[Adwait Sathe;  Yu-An Zhang;  Xiaotu Ma;  Pradipta Ray;  Daniela Cadinu;  Yi-Wei Wang;  Xiao Yao;  Xiaoyun Liu;  Hao Tang;  Yunfei Wang;  Ying Huang;  Changning Liu;  Jin Gu;  Martin Akerman;  Yifan Mo;  Chao Cheng;  Zhenyu Xuan;  Lei Chen;  Guanghua Xiao;  Yang Xie;  Luc Girard;  Hongyang Wang;  Stephen Lam;  Ignacio I. Wistuba;  Li Zhang;  Adi F. Gazdar;  Michael Q. Zhang]]></authors>
+
+<affiliations><![CDATA[Dept. of Mol. & Cell Biol., Univ. of Texas at Dallas, Richardson, TX, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[DNA]]></term>
+
+<term><![CDATA[cancer]]></term>
+
+<term><![CDATA[cellular biophysics]]></term>
+
+<term><![CDATA[lung]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Bioinformatics]]></term>
+
+<term><![CDATA[Cancer]]></term>
+
+<term><![CDATA[DNA]]></term>
+
+<term><![CDATA[Genomics]]></term>
+
+<term><![CDATA[Lungs]]></term>
+
+<term><![CDATA[Probes]]></term>
+
+<term><![CDATA[Tumors]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[IEEE Life Sciences Letters]]></pubtitle>
+
+<punumber><![CDATA[6687320]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[1]]></volume>
+
+<issue><![CDATA[3]]></issue>
+
+<py><![CDATA[2015]]></py>
+
+<spage><![CDATA[30]]></spage>
+
+<epage><![CDATA[33]]></epage>
+
+<abstract><![CDATA[Aberrant DNA methylation has long been implicated in cancers. In this letter, we present a highly discriminative DNA methylation biomarker for non-small cell lung cancers (NSCLCs) and 14 other cancers. Based on 69 NSCLC cell lines and 257 cancer-free lung tissues, we identified a CpG island in SCT gene promoter, which was verified by qMSP experiment in 15 NSCLC cell lines and three immortalized human respiratory epithelium cells. In addition, we found that the SCT promoter was methylated in 23 cancer cell lines involving &gt;10 cancer types profiled by ENCODE. We found that the SCT promoter is hypermethylated in primary tumors from TCGA lung cancer cohort. In addition, we found that SCT promoter is methylated at high frequencies in 15 malignancies and is not methylated in ~1000 non-cancerous tissues across &gt;30 organ types. This letter indicates that SCT promoter methylation is a highly discriminative biomarker for lung and many other cancers.]]></abstract>
+
+<issn><![CDATA[2332-7685]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[7293614]]></arnumber>
+
+<doi><![CDATA[10.1109/LLS.2015.2488438]]></doi>
+
+<publicationId><![CDATA[7293614]]></publicationId>
+
+<partnum><![CDATA[7293614]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7293614&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7293614]]></pdf>
+
+</document>
+
+<document>
+
+<rank>11</rank>
+
+<title><![CDATA[GPU-Accelerated Shape Simplification for Mechanical-Based Applications]]></title>
+
+<authors><![CDATA[Jon Hjelmervik;  Jean-Claude Leon]]></authors>
+
+<affiliations><![CDATA[SINTEF ICT]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer graphics]]></term>
+
+<term><![CDATA[finite element analysis]]></term>
+
+<term><![CDATA[mechanical engineering computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Concurrent computing]]></term>
+
+<term><![CDATA[Data structures]]></term>
+
+<term><![CDATA[Design automation]]></term>
+
+<term><![CDATA[Finite element methods]]></term>
+
+<term><![CDATA[Graphics]]></term>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[Iron]]></term>
+
+<term><![CDATA[Laboratories]]></term>
+
+<term><![CDATA[Shape]]></term>
+
+<term><![CDATA[Virtual manufacturing]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Shape Modeling and Applications, 2007. SMI '07. IEEE International Conference on]]></pubtitle>
+
+<punumber><![CDATA[4273353]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2007]]></py>
+
+<spage><![CDATA[91]]></spage>
+
+<epage><![CDATA[102]]></epage>
+
+<abstract><![CDATA[In this paper we present a GPU-based method for removing shape details of 3D models. 3D models used in finite element analysis (FEA) are often either constructed for the purpose of manufacturing, or a result of 3D scanning. The models therefore contain shape details that are neither important for FEA nor compatible with the mechanical hypotheses. Vertex removal is a popular method for removing geometrical details where vertices are removed one by one, provided certain constraints are satisfied. The constraints can either be based purely on geometrical properties, or also on mechanical ones. The computations required in this process can be time consuming, especially if mechanical constraints are involved. The main idea behind our method is to perform the computations for all the vertices in parallel using graphics hardware, and then use the CPU to maintain the data structure representing the triangulation. As a result, simplification functions can stay interactive while incorporating complementary mechanically-based criteria in addition to the geometric ones involved in shape transformation.]]></abstract>
+
+<isbn><![CDATA[0-7695-2815-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4273372]]></arnumber>
+
+<doi><![CDATA[10.1109/SMI.2007.17]]></doi>
+
+<publicationId><![CDATA[4273372]]></publicationId>
+
+<partnum><![CDATA[4273372]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4273372&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4273372]]></pdf>
+
+</document>
+
+<document>
+
+<rank>12</rank>
+
+<title><![CDATA[About the cover [photograph of Blas Cabrera Felipe]]]></title>
+
+<authors><![CDATA[Ron B. Goldfarb]]></authors>
+
+<affiliations><![CDATA[National Institute of Standards and Technology, Boulder, Colorado, USA]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Biographies]]></term>
+
+<term><![CDATA[Cabrera Felipe, Blas]]></term>
+
+<term><![CDATA[History]]></term>
+
+<term><![CDATA[Magnetic analysis]]></term>
+
+<term><![CDATA[Magnetic susceptibility]]></term>
+
+<term><![CDATA[Physics]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[IEEE Magnetics Letters]]></pubtitle>
+
+<punumber><![CDATA[5165412]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[4]]></volume>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[C4]]></spage>
+
+<epage><![CDATA[C4]]></epage>
+
+<abstract><![CDATA[Recounts the life and professional achievements of Blas Cabrera Felipe. Blas Cabrera Felipe was born on 20 May 1878 in Arrecife, Lanzarote, Canary Islands, Spain, and died on 1 August 1945 in Mexico City, Mexico. Cabrera is regarded as the father of twentieth-century physics in Spain.]]></abstract>
+
+<issn><![CDATA[1949-307X]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6712952]]></arnumber>
+
+<doi><![CDATA[10.1109/LMAG.2013.2290616]]></doi>
+
+<publicationId><![CDATA[6712952]]></publicationId>
+
+<partnum><![CDATA[6712952]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6712952&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6712952]]></pdf>
+
+</document>
+
+<document>
+
+<rank>13</rank>
+
+<title><![CDATA[Warning Prediction Sequential for Transient Error Prevention]]></title>
+
+<authors><![CDATA[Bishnu Prasad Das;  Hidetoshi Onodera]]></authors>
+
+<affiliations><![CDATA[Grad. Sch. of Inf., Kyoto Univ., Kyoto, Japan]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[alarm systems]]></term>
+
+<term><![CDATA[error detection]]></term>
+
+<term><![CDATA[flip-flops]]></term>
+
+<term><![CDATA[low-power electronics]]></term>
+
+<term><![CDATA[power supply circuits]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Aging]]></term>
+
+<term><![CDATA[Clocks]]></term>
+
+<term><![CDATA[Detectors]]></term>
+
+<term><![CDATA[Flip-flops]]></term>
+
+<term><![CDATA[Image edge detection]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Timing]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[2010 IEEE 25th International Symposium on Defect and Fault Tolerance in VLSI Systems]]></pubtitle>
+
+<punumber><![CDATA[5629473]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[382]]></spage>
+
+<epage><![CDATA[390]]></epage>
+
+<abstract><![CDATA[Error Detection Sequential (EDS) is gaining enormous importance in timing error detection. In this work, we propose a warning detection scheme for sequential circuits which is very useful for dynamic, transient error prevention. The circuit consists of data edge detector, warning window generator and warning detector along with traditional Flip-flop. The delayed data is monitored during the warning window to flag a warning signal before the data enters the erroneous zone. We also propose an area efficient edge detector which reduces the area of the proposed FF substantially. The proposed circuit can be used in Dynamic Voltage Scaling (DVS) for low power application and helps in determining when to stop further reduction in supply voltage. It is also useful in avoiding delay degradation due to aging. The feasibility of the circuit is simulated in industrial 65 nm technology node.]]></abstract>
+
+<issn><![CDATA[1550-5774]]></issn>
+
+<isbn><![CDATA[978-1-4244-8447-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5634939]]></arnumber>
+
+<doi><![CDATA[10.1109/DFT.2010.52]]></doi>
+
+<publicationId><![CDATA[5634939]]></publicationId>
+
+<partnum><![CDATA[5634939]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5634939&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5634939]]></pdf>
+
+</document>
+
+<document>
+
+<rank>14</rank>
+
+<title><![CDATA[Airborne sunphotometer, airborne in-situ, space-borne, and ground-based measurements of tropospheric aerosol in ACE-2]]></title>
+
+<authors><![CDATA[B. Schmid;  D. Collins;  S. Gasso;  E. Ostrom;  D. Powell;  E. Welton;  P. Durkee;  J. Livingston;  R. Flagan;  J. Seinfeld;  D. Hegg;  K. Noone;  K. Voss;  J. Reagan;  J. Spinbirne;  D. M. McIntosh]]></authors>
+
+<affiliations><![CDATA[Bay Area Environ. Res. Inst., San Francisco, CA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[aerosols]]></term>
+
+<term><![CDATA[air pollution measurement]]></term>
+
+<term><![CDATA[atmospheric techniques]]></term>
+
+<term><![CDATA[dust]]></term>
+
+<term><![CDATA[remote sensing]]></term>
+
+<term><![CDATA[remote sensing by laser beam]]></term>
+
+<term><![CDATA[troposphere]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Absorption]]></term>
+
+<term><![CDATA[Aerosols]]></term>
+
+<term><![CDATA[Extinction coefficients]]></term>
+
+<term><![CDATA[Light scattering]]></term>
+
+<term><![CDATA[Mie scattering]]></term>
+
+<term><![CDATA[Optical scattering]]></term>
+
+<term><![CDATA[Particle scattering]]></term>
+
+<term><![CDATA[Pollution measurement]]></term>
+
+<term><![CDATA[Size measurement]]></term>
+
+<term><![CDATA[USA Councils]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Geoscience and Remote Sensing Symposium, 2000. Proceedings. IGARSS 2000. IEEE 2000 International]]></pubtitle>
+
+<punumber><![CDATA[6913]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[4]]></volume>
+
+<py><![CDATA[2000]]></py>
+
+<spage><![CDATA[1613]]></spage>
+
+<epage><![CDATA[1615 vol.4]]></epage>
+
+<abstract><![CDATA[The North Atlantic Regional Aaosol Characterization Experiment (ACE-2) of the International Global Atmospheric Chemistry Project (IGAC) ran from 16 June to 25 July 1997. The results presented in this study are part of the &ldquo;Clear-sky column closure experiment&rdquo; (CLEARCOLUMN) activity, one of 6 ACE-2 activities. Clear-sky column closure experiments call for characterization of aerosol layers by simultaneous measurements using different techniques that can be related using models. A wide range of aerosol types was encountered throughout the ACE-2 area, including background Atlantic marine, European pollution-derived and African mineral dust. In a series of papers, we reported on ACE-2 CLEARCOLUMN results obtained by combining airborne sunphotometer and in-situ measurements taken aboard the Pelican aircraft, spaceborne NOAA/AVHRR data and ground-based lidar and sunphotometer measurements. Those and other CLEARCOLUMN results have been summarized previously. In this paper we only report on results not shown in this form]]></abstract>
+
+<isbn><![CDATA[0-7803-6359-0]]></isbn>
+
+<arnumber><![CDATA[857288]]></arnumber>
+
+<doi><![CDATA[10.1109/IGARSS.2000.857288]]></doi>
+
+<publicationId><![CDATA[857288]]></publicationId>
+
+<partnum><![CDATA[857288]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=857288&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=857288]]></pdf>
+
+</document>
+
+<document>
+
+<rank>15</rank>
+
+<title><![CDATA[A Counterpropagation Network based system for screening of Mild Cognitive Impairment]]></title>
+
+<authors><![CDATA[J. M. Mart&#x00ED; nez Garc&#x00ED; a;  P. Garc&#x00ED; a B&#x00E1; ez;  M. A. P&#x00E9; rez del Pino;  C. Fern&#x00E1; ndez Viadero;  C. P. Su&#x00E1; rez-Araujo]]></authors>
+
+<affiliations><![CDATA[Instituto Universitario de Ciencias y Tecnolog&#x00ED;as Cibern&#x00E9;ticas, Universidad de Las Palmas de Gran Canaria, Canary Islands, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[cognition]]></term>
+
+<term><![CDATA[decision support systems]]></term>
+
+<term><![CDATA[diseases]]></term>
+
+<term><![CDATA[handicapped aids]]></term>
+
+<term><![CDATA[health care]]></term>
+
+<term><![CDATA[medical computing]]></term>
+
+<term><![CDATA[patient diagnosis]]></term>
+
+<term><![CDATA[pattern classification]]></term>
+
+<term><![CDATA[sensor fusion]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Accuracy]]></term>
+
+<term><![CDATA[Aging]]></term>
+
+<term><![CDATA[Dementia]]></term>
+
+<term><![CDATA[Sensitivity]]></term>
+
+<term><![CDATA[Training]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[2012 IEEE 10th Jubilee International Symposium on Intelligent Systems and Informatics]]></pubtitle>
+
+<punumber><![CDATA[6330717]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2012]]></py>
+
+<spage><![CDATA[67]]></spage>
+
+<epage><![CDATA[72]]></epage>
+
+<abstract><![CDATA[Alzheimer's Disease (AD) and other dementias are one of the public health challenges mainly because of the relationship between population longevity and the increase of the pathology incidence. Furthermore, first symptoms appear several years after beginning of the disease and the progression of the cognitive decline rises over time. Therefore, it is necessary to accomplish diagnosis at the earliest possible stage, since the subject shows a slight impairment in some cognitive function. The detection of this state, named Mild Cognitive Impairment (MCI), is a complex task in medicine. The difficult distinction is between normal ageing and MCI rather than between MCI and AD. In this paper, we propose a CPN based system and a scheme of data fusion to aid MCI diagnosis. We present our preliminary results on MCI detection, using as dataset structure a simple combination of cognitive and functional measurements and the educational level of patients, gathered during clinical consultations. We have tackled an imbalanced classification problem developing a novel extended over-sampling method, SNEOM. Finally, we also performed a comparative study between our intelligent clinical decision system and a clinical expert, revealing the high level of performance of our proposal.]]></abstract>
+
+<issn><![CDATA[1949-047X]]></issn>
+
+<isbn><![CDATA[978-1-4673-4751-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6339488]]></arnumber>
+
+<doi><![CDATA[10.1109/SISY.2012.6339488]]></doi>
+
+<publicationId><![CDATA[6339488]]></publicationId>
+
+<partnum><![CDATA[6339488]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6339488&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6339488]]></pdf>
+
+</document>
+
+<document>
+
+<rank>16</rank>
+
+<title><![CDATA[Clustering analysis of the wind power output based on similarity theory]]></title>
+
+<authors><![CDATA[Lou Suhua;  Li Zhiheng;  Wu Yaowu]]></authors>
+
+<affiliations><![CDATA[College of Electrical and Electronic Engineering, Huazhong University of Science and Technology (HUST), Wuhan 430074, Hubei, China]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[fuzzy set theory]]></term>
+
+<term><![CDATA[load forecasting]]></term>
+
+<term><![CDATA[power generation planning]]></term>
+
+<term><![CDATA[wind power plants]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Clustering methods]]></term>
+
+<term><![CDATA[Distribution functions]]></term>
+
+<term><![CDATA[Fluctuations]]></term>
+
+<term><![CDATA[Power generation]]></term>
+
+<term><![CDATA[Power system analysis computing]]></term>
+
+<term><![CDATA[Power system planning]]></term>
+
+<term><![CDATA[Strategic planning]]></term>
+
+<term><![CDATA[Wind energy]]></term>
+
+<term><![CDATA[Wind energy generation]]></term>
+
+<term><![CDATA[Wind speed]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Electric Utility Deregulation and Restructuring and Power Technologies, 2008. DRPT 2008. Third International Conference on]]></pubtitle>
+
+<punumber><![CDATA[4511470]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2008]]></py>
+
+<spage><![CDATA[2815]]></spage>
+
+<epage><![CDATA[2819]]></epage>
+
+<abstract><![CDATA[The most important difference of wind power generator sets is the uncontrollability of their output compared to traditional ones, and it is an important issue to describe the fluctuation that affects on power system and to development a corresponding planning strategy. This paper uses a fuzzy clustering method and similarity theory to classify different periods into different time category and then choose a fixed output value to represent the output of wind power in category respectively. The wind speed distribution function is used to describe the characteristics of classified wind speed data, and expected output of wind power is obtained via a typical wind turbine power curve. The results clustered can provide a theoretical basis for the production simulation and forecasting analysis of wind power integrated system.]]></abstract>
+
+<isbn><![CDATA[978-7-900714-13-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4523889]]></arnumber>
+
+<doi><![CDATA[10.1109/DRPT.2008.4523889]]></doi>
+
+<publicationId><![CDATA[4523889]]></publicationId>
+
+<partnum><![CDATA[4523889]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4523889&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4523889]]></pdf>
+
+</document>
+
+<document>
+
+<rank>17</rank>
+
+<title><![CDATA[Whither the IEE?]]></title>
+
+<authors><![CDATA[H. J. Long;  C. P. Morton]]></authors>
+
+<pubtitle><![CDATA[Electronics and Power]]></pubtitle>
+
+<punumber><![CDATA[5176125]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IET]]></publisher>
+
+<volume><![CDATA[13]]></volume>
+
+<issue><![CDATA[11]]></issue>
+
+<py><![CDATA[1967]]></py>
+
+<spage><![CDATA[422]]></spage>
+
+<epage><![CDATA[423]]></epage>
+
+<issn><![CDATA[0013-5127]]></issn>
+
+<arnumber><![CDATA[5178495]]></arnumber>
+
+<doi><![CDATA[10.1049/ep.1967.0300]]></doi>
+
+<publicationId><![CDATA[5178495]]></publicationId>
+
+<partnum><![CDATA[5178495]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5178495&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5178495]]></pdf>
+
+</document>
+
+<document>
+
+<rank>18</rank>
+
+<title><![CDATA[Segmentation of anticyclonic eddies using MODIS and MERIS imagery of an underwater volcano]]></title>
+
+<authors><![CDATA[Francisco Eugenio;  Javier Marcello;  Sheila Estrada-Allis;  Pablo Sangr&#x00E0]]></authors>
+
+<affiliations><![CDATA[Inst. de Oceanogr. y Cambio Global, Univ. de Las Palmas de Gran Canaria, Las Palmas, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[geophysical image processing]]></term>
+
+<term><![CDATA[image segmentation]]></term>
+
+<term><![CDATA[oceanography]]></term>
+
+<term><![CDATA[remote sensing]]></term>
+
+<term><![CDATA[volcanology]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Image resolution]]></term>
+
+<term><![CDATA[Image segmentation]]></term>
+
+<term><![CDATA[MODIS]]></term>
+
+<term><![CDATA[Remote sensing]]></term>
+
+<term><![CDATA[Satellites]]></term>
+
+<term><![CDATA[Underwater vehicles]]></term>
+
+<term><![CDATA[Volcanoes]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)]]></pubtitle>
+
+<punumber><![CDATA[7303999]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2015]]></py>
+
+<spage><![CDATA[4813]]></spage>
+
+<epage><![CDATA[4816]]></epage>
+
+<abstract><![CDATA[In order to understand and quantify the environmental impacts caused by the eruption of the El Hierro Island submarine volcano, a regular multidisciplinary monitoring was carried out. In this context, we performed the systematic processing of MODIS and MERIS imagery. Thanks to the volcanic tracer, detailed studies could be undertaken using ocean color imagery allowing, for the first time, to monitor the process of filamentation and axisymmetrization. In our work, a novel 2-steps segmentation methodology has been developed. In this context, this natural tracer release has been detected using an advanced methodology based on an initial structure detection algorithm and a structure growing technique. This detection approach has been validated over a database of MERIS and MODIS oceanographic products and it has demonstrated an excellent performance and robustness.]]></abstract>
+
+<issn><![CDATA[2153-6996]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[7326907]]></arnumber>
+
+<doi><![CDATA[10.1109/IGARSS.2015.7326907]]></doi>
+
+<publicationId><![CDATA[7326907]]></publicationId>
+
+<partnum><![CDATA[7326907]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7326907&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7326907]]></pdf>
+
+</document>
+
+<document>
+
+<rank>19</rank>
+
+<title><![CDATA[Near real-time detection of crisis situations]]></title>
+
+<authors><![CDATA[Sylva Girtelschmid;  Andrea Salfinger;  Birgit Pr&#246; ll;  Werner Retschitzegger;  Wieland Schwinger]]></authors>
+
+<affiliations><![CDATA[Inst. for Application Oriented Knowledge Processing]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Data mining]]></term>
+
+<term><![CDATA[Event detection]]></term>
+
+<term><![CDATA[Media]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Real-time systems]]></term>
+
+<term><![CDATA[Storms]]></term>
+
+<term><![CDATA[Twitter]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[2016 39th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)]]></pubtitle>
+
+<punumber><![CDATA[7513176]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2016]]></py>
+
+<spage><![CDATA[247]]></spage>
+
+<epage><![CDATA[252]]></epage>
+
+<abstract><![CDATA[When disaster strikes, be it natural or man-made, the immediacy of notifying emergency professionals is critical to be able to best initiate a helping response. As has social media become ubiquitous in the recent years, so have affected citizens become fast reporters of an incident. However, wanting to exploit such ¿¿¿citizen sensors¿¿¿ for identifying a crisis situation comes at a price of having to sort, in near real-time, through vast amounts of mostly unrelated, and highly unstructured information exchanged among individuals around the world. Identifying bursts in conversations can, however, decrease the burden by pinpointing an event of potential interest. Still, the vastness of information keeps the computational requirements for such procedures, even if optimized, too high for a non-distributed approach. This is where currently emerging, real-time focused distributed processing systems may excel. This paper elaborates on the possible practices, caveats, and recommendations for engineering a cloud-centric application on one such system. We used the distributed real-time computation system Apache Storm and its Trident API in conjunction with detecting crisis situations by identifying bursts in a streamed Twitter communication. We contribute a system architecture for the suggested application, and a high level description of its components' implementation.]]></abstract>
+
+<isbn><![CDATA[978-953-233-088-5]]></isbn>
+
+<arnumber><![CDATA[7522146]]></arnumber>
+
+<doi><![CDATA[10.1109/MIPRO.2016.7522146]]></doi>
+
+<publicationId><![CDATA[7522146]]></publicationId>
+
+<partnum><![CDATA[7522146]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7522146&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7522146]]></pdf>
+
+</document>
+
+<document>
+
+<rank>20</rank>
+
+<title><![CDATA[Optimizing resources in isolated electrical systems through energy storage to enhance the integration of renewable energies and increase the quality of supply]]></title>
+
+<authors><![CDATA[Juan Fernando Figueras Torres;  Leopoldo Acosta S&#x00E1; nchez]]></authors>
+
+<affiliations><![CDATA[Dept. Operation System Canary Island, Red El&#x00E9;ctrica de Espa&#x00F1;a S.A.U. San Crist&#x00F3;bal de La Laguna, Spain]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[PD control]]></term>
+
+<term><![CDATA[flywheels]]></term>
+
+<term><![CDATA[power supply quality]]></term>
+
+<term><![CDATA[power system control]]></term>
+
+<term><![CDATA[renewable energy sources]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Flywheels]]></term>
+
+<term><![CDATA[Frequency control]]></term>
+
+<term><![CDATA[Generators]]></term>
+
+<term><![CDATA[Load modeling]]></term>
+
+<term><![CDATA[Mathematical model]]></term>
+
+<term><![CDATA[PD control]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[2015 IEEE International Conference on Industrial Technology (ICIT)]]></pubtitle>
+
+<punumber><![CDATA[7108493]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2015]]></py>
+
+<spage><![CDATA[2806]]></spage>
+
+<epage><![CDATA[2811]]></epage>
+
+<abstract><![CDATA[This paper demonstrates that using a control strategy based on a fractional derivative scheme improves the response of an energy storage unit, thus making better use of the resources available versus using other control strategies based on classical PD control. The energy storage technology studied in this paper is the flywheel. By optimizing its response, the storage equipment requirements are decreased, enhancing the integration of renewable energies. The quality of the supply is also increased during situations involving a drop in inertia in an isolated electrical system.]]></abstract>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[7125512]]></arnumber>
+
+<doi><![CDATA[10.1109/ICIT.2015.7125512]]></doi>
+
+<publicationId><![CDATA[7125512]]></publicationId>
+
+<partnum><![CDATA[7125512]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7125512&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7125512]]></pdf>
+
+</document>
+
+<document>
+
+<rank>21</rank>
+
+<title><![CDATA[A Neural Networks filtering mechanism for foreign exchange trading signals]]></title>
+
+<authors><![CDATA[Abdulah Kayal]]></authors>
+
+<affiliations><![CDATA[School of ICT, Royal Institute of Technology (KTH), Stockholm, Sweden]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[filtering theory]]></term>
+
+<term><![CDATA[neural nets]]></term>
+
+<term><![CDATA[signal processing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Brain modeling]]></term>
+
+<term><![CDATA[Neurons]]></term>
+
+<term><![CDATA[Optimization]]></term>
+
+<term><![CDATA[Oscillators]]></term>
+
+<term><![CDATA[Variable speed drives]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Intelligent Computing and Intelligent Systems (ICIS), 2010 IEEE International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5639100]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[3]]></volume>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[159]]></spage>
+
+<epage><![CDATA[167]]></epage>
+
+<abstract><![CDATA[Neural Networks have been successfully used in several financial applications. In the stock market and foreign exchange domains, Neural Networks have been used with considerable success to predict the future prices of stocks and currency pairs, their rate of return, risk analysis, and several other features that might be of benefit. In this paper, we present a methodology to filter the high-frequency signals of a rule-based foreign exchange trading strategy, through a neural network-based, intelligent selection mechanism. We then compare the results vs. a random selection mechanism and again vs. the overall signal pool, in terms of profit and correctness. We can clearly show that the neural network filtering approach yields a better performance than its random baseline.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-6582-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5658495]]></arnumber>
+
+<doi><![CDATA[10.1109/ICICISYS.2010.5658495]]></doi>
+
+<publicationId><![CDATA[5658495]]></publicationId>
+
+<partnum><![CDATA[5658495]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5658495&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5658495]]></pdf>
+
+</document>
+
+<document>
+
+<rank>22</rank>
+
+<title><![CDATA[A Low-Cost Sensor Network for Real-Time Monitoring and Contamination Detection in Drinking Water Distribution Systems]]></title>
+
+<authors><![CDATA[Theofanis P. Lambrou;  Christos C. Anastasiou;  Christos G. Panayiotou;  Marios M. Polycarpou]]></authors>
+
+<affiliations><![CDATA[Dept. of Electr. & Comput. Eng., Univ. of Cyprus, Nicosia, Cyprus]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[alarm systems]]></term>
+
+<term><![CDATA[contamination]]></term>
+
+<term><![CDATA[data loggers]]></term>
+
+<term><![CDATA[data structures]]></term>
+
+<term><![CDATA[electrochemical sensors]]></term>
+
+<term><![CDATA[market research]]></term>
+
+<term><![CDATA[microsensors]]></term>
+
+<term><![CDATA[optical sensors]]></term>
+
+<term><![CDATA[pipes]]></term>
+
+<term><![CDATA[sensor arrays]]></term>
+
+<term><![CDATA[sensor fusion]]></term>
+
+<term><![CDATA[signal conditioning circuits]]></term>
+
+<term><![CDATA[water quality]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Contamination]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Sensor systems]]></term>
+
+<term><![CDATA[Temperature measurement]]></term>
+
+<term><![CDATA[Temperature sensors]]></term>
+
+<term><![CDATA[Water pollution]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[IEEE Sensors Journal]]></pubtitle>
+
+<punumber><![CDATA[7361]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[14]]></volume>
+
+<issue><![CDATA[8]]></issue>
+
+<py><![CDATA[2014]]></py>
+
+<spage><![CDATA[2765]]></spage>
+
+<epage><![CDATA[2772]]></epage>
+
+<abstract><![CDATA[This paper presents a low cost and holistic approach to the water quality monitoring problem for drinking water distribution systems as well as for consumer sites. Our approach is based on the development of low cost sensor nodes for real time and in-pipe monitoring and assessment of water quality on the fly. The main sensor node consists of several in-pipe electrochemical and optical sensors and emphasis is given on low cost, lightweight implementation, and reliable long time operation. Such implementation is suitable for large scale deployments enabling a sensor network approach for providing spatiotemporally rich data to water consumers, water companies, and authorities. Extensive literature and market research are performed to identify low cost sensors that can reliably monitor several parameters, which can be used to infer the water quality. Based on selected parameters, a sensor array is developed along with several microsystems for analog signal conditioning, processing, logging, and remote presentation of data. Finally, algorithms for fusing online multisensor measurements at local level are developed to assess the water contamination risk. Experiments are performed to evaluate and validate these algorithms on intentional contamination events of various concentrations of escherichia coli bacteria and heavy metals (arsenic). Experimental results indicate that this inexpensive system is capable of detecting these high impact contaminants at fairly low concentrations. The results demonstrate that this system satisfies the online, in-pipe, low deployment-operation cost, and good detection accuracy criteria of an ideal early warning system.]]></abstract>
+
+<issn><![CDATA[1530-437X]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6786370]]></arnumber>
+
+<doi><![CDATA[10.1109/JSEN.2014.2316414]]></doi>
+
+<publicationId><![CDATA[6786370]]></publicationId>
+
+<partnum><![CDATA[6786370]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6786370&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6786370]]></pdf>
+
+</document>
+
+<document>
+
+<rank>23</rank>
+
+<title><![CDATA[Analog VLSI implementation of a neural network with competitive learning]]></title>
+
+<authors><![CDATA[F. J. Pelayo;  A. Prieto;  B. Pino;  P. Martin-Smith]]></authors>
+
+<affiliations><![CDATA[Dept. de Electron. y Tecnologie de Computadores, Granada Univ.]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[CMOS integrated circuits]]></term>
+
+<term><![CDATA[VLSI]]></term>
+
+<term><![CDATA[computerised pattern recognition]]></term>
+
+<term><![CDATA[learning systems]]></term>
+
+<term><![CDATA[linear integrated circuits]]></term>
+
+<term><![CDATA[microprocessor chips]]></term>
+
+<term><![CDATA[neural nets]]></term>
+
+<term><![CDATA[parallel architectures]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Analog computers]]></term>
+
+<term><![CDATA[Artificial neural networks]]></term>
+
+<term><![CDATA[Brain modeling]]></term>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Computer networks]]></term>
+
+<term><![CDATA[Concurrent computing]]></term>
+
+<term><![CDATA[Neural network hardware]]></term>
+
+<term><![CDATA[Neural networks]]></term>
+
+<term><![CDATA[Neurons]]></term>
+
+<term><![CDATA[Very large scale integration]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cellular Neural Networks and their Applications, 1990. CNNA-90 Proceedings., 1990 IEEE International Workshop on]]></pubtitle>
+
+<punumber><![CDATA[177]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[1990]]></py>
+
+<spage><![CDATA[197]]></spage>
+
+<epage><![CDATA[205]]></epage>
+
+<abstract><![CDATA[An analog VLSI implementation of a neural network is presented which has been designed for use in clustered systems with competitive learning. The circuit implements an inhibitory cluster that includes the winner-unit computation. The synaptic weights are externally alterable asynchronously with network operation. A test chip has been designed with the rules of a 2-&mu;m CMOS process which shows high integration density (about 200 synaptic connections per square millimeter). Simulation results and VLSI realization details of different modules comprised in the chip are also presented]]></abstract>
+
+<arnumber><![CDATA[207525]]></arnumber>
+
+<doi><![CDATA[10.1109/CNNA.1990.207525]]></doi>
+
+<publicationId><![CDATA[207525]]></publicationId>
+
+<partnum><![CDATA[207525]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=207525&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=207525]]></pdf>
+
+</document>
+
+<document>
+
+<rank>24</rank>
+
+<title><![CDATA[Real time implementation of the BESS to smoothen the output power fluctuation of the variable speed wind turbine generator]]></title>
+
+<authors><![CDATA[Adnan Sattar;  Ahmed Al Durra;  Cedric Caruana;  S. M Muyeen;  Junji Tamura]]></authors>
+
+<affiliations><![CDATA[Dept. of Electr. Eng., Pet. Inst., Abu Dhabi, United Arab Emirates]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[battery storage plants]]></term>
+
+<term><![CDATA[frequency convertors]]></term>
+
+<term><![CDATA[machine control]]></term>
+
+<term><![CDATA[permanent magnet generators]]></term>
+
+<term><![CDATA[power generation control]]></term>
+
+<term><![CDATA[power grids]]></term>
+
+<term><![CDATA[power transformers]]></term>
+
+<term><![CDATA[static VAr compensators]]></term>
+
+<term><![CDATA[synchronous generators]]></term>
+
+<term><![CDATA[wind turbines]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Automatic voltage control]]></term>
+
+<term><![CDATA[Batteries]]></term>
+
+<term><![CDATA[Generators]]></term>
+
+<term><![CDATA[PSCAD]]></term>
+
+<term><![CDATA[Reactive power]]></term>
+
+<term><![CDATA[Wind speed]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Electrical Machines and Systems (ICEMS), 2012 15th International Conference on]]></pubtitle>
+
+<punumber><![CDATA[6387735]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2012]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[6]]></epage>
+
+<abstract><![CDATA[In this paper, a grid connected variable speed wind turbine (VSWT) PMSG integrated with the NaS type battery energy storage system (BESS) is modeled in the Real Time Digital Simulator (RTDS) to analyze the performance in the real system. This work is also a part of the future power hardware-in-loop (PHIL) test; therefore, individual components are modeled considering the practical viewpoints. Wind turbine, power grid and control system are modeled in the large time-step main network, however, wind generator (PMSG), frequency converter (FC), BESS integrated with STATCOM are modeled in the RTDS VSC small time-step network to adopt with the higher switching frequencies. Interface transformer is used to connect the different time-step sub network. Option of integrating the anemometer is kept open for future PHIL test. Simulation results are compared with the laboratory standard power system software PSCAD/EMTDC to validate the model developed in the RTDS/RSCAD.]]></abstract>
+
+<isbn><![CDATA[978-1-4673-2327-7]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6401818]]></arnumber>
+
+<publicationId><![CDATA[6401818]]></publicationId>
+
+<partnum><![CDATA[6401818]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6401818&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6401818]]></pdf>
+
+</document>
+
+<document>
+
+<rank>25</rank>
+
+<title><![CDATA[Prognostics for electronic components]]></title>
+
+<authors><![CDATA[Herbert Hecht]]></authors>
+
+<affiliations><![CDATA[SoHaR Incorporated, 5721 Slauson Avenue #140, Culver City, California, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[condition monitoring]]></term>
+
+<term><![CDATA[electronics industry]]></term>
+
+<term><![CDATA[reliability]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Electronic components]]></term>
+
+<term><![CDATA[Feedback control]]></term>
+
+<term><![CDATA[Maintenance engineering]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Random access memory]]></term>
+
+<term><![CDATA[Reliability]]></term>
+
+<term><![CDATA[Sensors]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Reliability and Maintainability Symposium (RAMS), 2013 Proceedings - Annual]]></pubtitle>
+
+<punumber><![CDATA[6516162]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2013]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[4]]></epage>
+
+<abstract><![CDATA[The paper emphasizes prognostics that are derived from data currently available within or from electronic components, thus avoiding the need for additional sensors and extensive physical modification of systems and permitting immediate savings to be realized. Areas where this approach is particularly suitable include: semiconductor memories; data communications; initialization procedures; and feedback control loops. The melding of the empirical methodology addressed here with the more comprehensive physics of failure based approach is anticipated.]]></abstract>
+
+<issn><![CDATA[0149-144X]]></issn>
+
+<isbn><![CDATA[978-1-4673-4709-9]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6517743]]></arnumber>
+
+<doi><![CDATA[10.1109/RAMS.2013.6517743]]></doi>
+
+<publicationId><![CDATA[6517743]]></publicationId>
+
+<partnum><![CDATA[6517743]]></partnum>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6517743&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6517743]]></pdf>
+
+</document>
+
+</root>
