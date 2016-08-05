@@ -1,29 +1,10 @@
 #!/usr/bin/env python3
 
-# first import the requests module to be able to send requests
-#from lxml import etree
-#from io import StringIO, BytesIO
-
-#tree = etree.parse('response.xml')
-
-#import requests
-
-
-# make a request
-#r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?querytext=canary')
-
-# test if the url is assembled right
-#print(r.url)
-
-
-# show the response to the request
-#print(r.text)
-
-#tree = etree.parse("response.xml")
-#root = parser.close()
-#print (root.tag)
-
+#import the right packages
+from lxml import etree
 import xml.etree.ElementTree as ET
+
+#parsing my xml-file (unfortunately not yet from the request directly
 tree = ET.parse("response.xml")
 root = tree.getroot()
 
@@ -32,6 +13,7 @@ for totalfound in root.findall('totalfound'):
 	total = totalfound.text
 	print(total)
 
+# generate parameters for getting all the search results
 total = int(total)
 
 rs = 1
@@ -46,8 +28,12 @@ while total > 1000:
 hc = total
 print('hc = ', hc)
 
-import lxml
-from lxml.html.clean import Cleaner
+# get the articlenumbers from the xml-file to reach the html version of articles
+for arnumber in root.findall('.//arnumber'):
+        articlenumber = arnumber.text
+        print(articlenumber)
+                
 
-cleaner = Cleaner()
-cleaner.remove_tags = ['<![CDATA[]]>']
+
+
+
