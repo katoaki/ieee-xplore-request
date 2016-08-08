@@ -45,6 +45,13 @@ key5 = input()
 if key5:
     payload[searchtype5] = key5
 
+searchtype6 = 'rs'
+key6 = 1
+payload[searchtype6] = key6
+searchtype7 = 'hc'
+key7 = 1000
+payload[searchtype7] = key7
+
 # test to see how payload looks like
 print(payload)
 
