@@ -2,6 +2,9 @@
 
 # first import the requests module to be able to send requests
 import requests
+from lxml import etree
+import xml.etree.ElementTree as ET
+
 payload = {}
 
 # asking the user for author
@@ -61,6 +64,36 @@ r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?', params=pay
 # test if the url is assembled right
 print(r.url)
 
+# z contains all the entries (maximum 1000) of the first request response
+z = r
 
-# show the response to the request
-print(r.text)
+# XML strings to etree
+z_root = etree.fromstring(z.content)
+
+# XML strings to etree
+#r_root = etree.fromstring(r.content)
+
+# find the total number of entries with the parameters and keywords I searched for
+for totalfound in z_root.findall('totalfound'):
+	total = totalfound.text
+	print('total search results= ',total)
+
+# generate parameters for getting all the search results
+total = int(total)
+rs = 1
+while total > 1000:
+#    print('rs = ', rs)
+    rs = rs + 1000
+    key6 = rs
+    payload[searchtype6] = key6
+#    print(payload)
+    r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?', params=payload)
+    r_root = etree.fromstring(r.content)
+    z_root.append(r_root)
+#    print(r.url)
+    total = total - 1000
+#    print('total = ', total)
+
+#write data into an output file
+tree = ET.ElementTree(z_root)
+tree.write('output.xml')
