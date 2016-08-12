@@ -9,7 +9,9 @@ payload = {}
 
 # asking the user for author
 searchtype1 = 'au'
-print('Do you want to search for one or more authors? Type in the names, comma separated, without space. If not just enter')
+print('Do you want to search for one or more authors? \n'\
+      'Type in the names, comma separated, without space. \n'\
+      'If not just enter')
 keywords1 = input()
 
 # filling the dictionary payload with searchtype and key, if it was input
@@ -19,7 +21,8 @@ if keywords1:
 
 # search for keywords in title
 searchtype2 = 'ti'
-print('Do you want to search for keywords in the title? Input now or press Enter:')
+print('Do you want to search for keywords in the title? \n'\
+      'Input now or press Enter:')
 keywords2 = input()
 if keywords2:
     key2 = keywords2.split(',')
@@ -27,7 +30,8 @@ if keywords2:
 
 # search for keywords in everything: title, abstract, document
 searchtype3 = 'querytext'
-print('If you want to search for keywords in the title, abstract and document, enter the keywords here. IEEE xplore allows a maximum of 10 keywords.')
+print('If you want to search for keywords in the title, abstract and document, \n'\
+      'enter the keywords here. IEEE xplore allows a maximum of 10 keywords.')
 keywords3 = input()
 if keywords3:
     key3 = keywords3.split(',')
@@ -59,7 +63,8 @@ payload[searchtype7] = key7
 print(payload)
 
 # try to assemble the request url a little more automatically by passing parameters with params
-r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?', params=payload)
+r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?',
+                 params=payload)
 
 # test if the url is assembled right
 print(r.url)
