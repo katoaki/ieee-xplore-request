@@ -100,11 +100,12 @@ while total > 1000:
     total = total - 1000
 #    print('total = ', total)
 
-# find the total number of entries with the parameters and keywords I searched for
+# put all articlenumbers from z_root in an array for easier access
 articleArray = []
 for arnumber in z_root.findall('.//arnumber'):
     articleArray.append(arnumber.text)
 
+# access the html website to each articlenumber and in the future search for additional information
 #htmlsuche = requests.get('http://http://ieeexplore.ieee.org/xpls/icp.jsp?',params=payload)
 
 #write data into an output file
