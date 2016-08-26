@@ -92,13 +92,21 @@ while total > 1000:
     key6 = rs
     payload[searchtype6] = key6
 #    print(payload)
-    r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?', params=payload)
+    r = requests.get('http://ieeexplore.ieee.org/gateway/ipsSearch.jsp?',
+	params=payload)
     r_root = etree.fromstring(r.content)
     z_root.append(r_root)
 #    print(r.url)
     total = total - 1000
 #    print('total = ', total)
 
+# find the total number of entries with the parameters and keywords I searched for
+articleArray = []
+for arnumber in z_root.findall('.//arnumber'):
+    articleArray.append(arnumber.text)
+
+#htmlsuche = requests.get('http://http://ieeexplore.ieee.org/xpls/icp.jsp?',params=payload)
+
 #write data into an output file
-tree = ET.ElementTree(z_root)
-tree.write('output.xml')
+#tree = ET.ElementTree(z_root)
+#tree.write('output.xml')
