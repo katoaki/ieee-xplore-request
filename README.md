@@ -11,12 +11,12 @@ This script is all free, free to use, free to improve, but should kept as such a
 
 To do:
 - include a header
-- find out to get all the xml for all search results and not only the first 25 by default or up to 1000 if I'm smart enough to use the right search query 
-	- there are the paging parameters, first request should find out how much search results we get. depending on that result "hc" numbers of records to fetch should be set appropriately. if results exceed 1000, "rs" sequence number of first record to fetch needs to be set accordingly.
-- allow the user to use a variety of search types at the same time
+- find out to get all the xml for all search results and not only the first 25 by default or up to 1000 if I'm smart enough to use the right search query (done)
+	- there are the paging parameters, first request should find out how much search results we get. depending on that result "hc" numbers of records to fetch should be set appropriately. if results exceed 1000, "rs" sequence number of first record to fetch needs to be set accordingly. (done)
+- allow the user to use a variety of search types at the same time (done)
 - make the input failure safe, check if the input is valid and if not ask the user to input data again, think about a break condition
 - how to work with xml data
-- use the xml data to assemble the url for the html version of the article
+- use the xml data to assemble the url for the html version of the article (next)
 - search the html website and download the relevant data: sentences with keywords, tables, figures
   - check the format of tables and figures
 - decide how to save the data and a possible document/folder structure for it
